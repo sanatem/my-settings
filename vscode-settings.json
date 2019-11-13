@@ -1,0 +1,17 @@
+// Visual Studio Code settings.
+{
+  "window.zoomLevel": 0,
+  "editor.fontSize": 14,
+  "files.insertFinalNewline": true,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.tree.indent": 12,
+  "scss.lint.emptyRules": "ignore",
+  "editor.tabSize": 2,
+  "[scss]": {
+    "editor.tabSize": 4
+  },
+  "ruby.rubocop.executePath": "/Users/sanatem/.rvm/gems/ruby-2.6.3/bin/",
+  "diffEditor.renderSideBySide": false,
+  "editor.acceptSuggestionOnCommitCharacter": false
+
+}
